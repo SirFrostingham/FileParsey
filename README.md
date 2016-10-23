@@ -1,5 +1,6 @@
-ìFileParseyî ñ WINDOWS APP DYNAMIC FILE EDITOR
- ñ This application can edit multiple files in real time
+‚ÄúFileParsey‚Äù ‚Äì WINDOWS APP DYNAMIC FILE EDITOR
+
+ - This application can edit multiple files in real time
  - Very useful for server/game server admins/power users
  
 Usage:
